@@ -1,0 +1,11 @@
+.classpath
+*.class
+.metadata
+target
+META-INF
+.settings
+bin
+.project
+.factorypath
+dme2grmendpoints.txt
+service/opt/att/ajsc/config/dme.properties
